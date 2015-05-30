@@ -3,7 +3,7 @@
 
     window.App.videos = [
         {
-            title: 'Big Buck Bunny',
+            title: '1Big Buck Bunny',
             url: 'http://smartimmo.ru/uploaded/big_buck_bunny_480p_h264.mp4',
             type: 'vod'
         },
